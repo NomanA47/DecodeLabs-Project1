@@ -1,4 +1,3 @@
-# DecodeLabs-Project1
 # Password Strength Checker
 
 A small command-line tool written in Python that rates a password as Weak, Medium or Strong and tells you what to fix. I built it as Project 1 of the DecodeLabs Cyber Security Industrial Training Kit (Batch 2026).
